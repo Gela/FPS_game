@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forest_FPS.CSharp.Plugins", "Forest_FPS.CSharp.Plugins.csproj", "{02135F7A-AD09-D103-F3E2-C31A4C48D0FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forest_FPS.CSharp", "Forest_FPS.CSharp.csproj", "{9FB93233-BE83-0BD7-36D3-8F585033A22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forest_FPS.CSharp.Editor", "Forest_FPS.CSharp.Editor.csproj", "{D83DF724-3598-6054-52DA-855966DD95C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02135F7A-AD09-D103-F3E2-C31A4C48D0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02135F7A-AD09-D103-F3E2-C31A4C48D0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02135F7A-AD09-D103-F3E2-C31A4C48D0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02135F7A-AD09-D103-F3E2-C31A4C48D0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB93233-BE83-0BD7-36D3-8F585033A22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB93233-BE83-0BD7-36D3-8F585033A22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB93233-BE83-0BD7-36D3-8F585033A22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB93233-BE83-0BD7-36D3-8F585033A22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83DF724-3598-6054-52DA-855966DD95C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83DF724-3598-6054-52DA-855966DD95C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83DF724-3598-6054-52DA-855966DD95C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83DF724-3598-6054-52DA-855966DD95C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
